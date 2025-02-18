@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 package us.whitedev.crashers.impl;
 
 import it.unimi.dsi.fastutil.ints.Int2ObjectMap;
