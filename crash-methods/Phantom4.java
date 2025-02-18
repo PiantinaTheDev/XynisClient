@@ -1,4 +1,3 @@
-
 package us.whitedev.crashers.impl;
 
 import it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap;
