@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 package us.whitedev.crashers.impl;
 
 import de.florianmichael.vialoadingbase.ViaLoadingBase;
