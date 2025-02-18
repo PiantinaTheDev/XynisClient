@@ -1,4 +1,3 @@
-
 package us.whitedev.crashers.impl;
 
 import java.util.List;
