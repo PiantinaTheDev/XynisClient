@@ -1,3 +1,3 @@
-dont ask me anything i only recived the leak so..
+ALL CREDITS TO Deep Collective SQ
 
-keawee not the goat!1!1
+Enjoy the shit!
